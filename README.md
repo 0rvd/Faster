@@ -331,7 +331,6 @@ Released under the **[MIT License](LICENSE)** — you're free to use, copy, modi
 
 ---
 
-<div align="center">
 
 **Made with 💜, caffeine and a lot of talking.**
 
