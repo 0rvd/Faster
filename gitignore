@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# PyInstaller output
+build/
+dist/
+*.spec
+
+# Local test files
+test.wav
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

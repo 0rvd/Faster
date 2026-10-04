@@ -1,0 +1,6 @@
+PyQt6>=6.5
+numpy
+sounddevice
+keyboard
+pyperclip
+faster-whisper
